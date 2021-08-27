@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**Sachit71/Sachit71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on Thoth Messenger a LAN based chat room service, check repo
 - 🌱 I’m currently learning Node.JS and Django
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Apple had a clothing and lifestyle line back in the 80s LMAO
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachit71&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachit71&show_icons=true&theme=radical)
 
