@@ -17,7 +17,7 @@ I recently made a LAN based chat room service, Link at the end of the readme fil
 - ⚡ Fun fact: Apple had a clothing and lifestyle line back in the 80s LMAO
 
 
-![Sachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachit71&show_icons=true&theme=radical)
+
 
 https://github.com/Sachit71/Thoth-LAN-Messaging-Service
 For freelancing queries do reach me by mail or Discord
