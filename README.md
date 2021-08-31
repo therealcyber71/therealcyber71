@@ -8,11 +8,11 @@ My Tech-Stack currently consists of HTML/CSS/JS (Front-end), Python for Machine 
 
 
 - 🔭 I’m currently working on contributing to Open Source and getting certifications!
-- 🌱 I’m currently learning Node.JS and Django
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on nothing as for now
-- 🤔 I’m looking for help with nothing as for now
+- 🤔 I’m looking for help with Open Source contributions
 - 💬 Ask me about Python, Open CV, Machine Learning and other Programming related concepts
-- 📫 How to reach me: mail:quantechlxxi.corp@gmail.com, discord:cyber#7596
+- 📫 How to reach me: mail:quantechlxxi.corp@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Apple had a clothing and lifestyle line back in the 80s LMAO
 
