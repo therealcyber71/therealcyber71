@@ -22,3 +22,5 @@
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sachit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sachit71&bg_color=0d1117&color=00916d&line=2aa788&point=FFFFFF&hide_border=true" /></a>
+  
+  Here's my blog where I post new tutorials and software reviews: https://dev.to/cyber
