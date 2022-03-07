@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Computer vision, NLP, Speech recognition.**
 
-- 📫 How to reach me **quantechlxxi.corp@gmail.com**
+- 📫 How to reach me **quantechlxxi.corp@gmail.com** thereal_cyber --> instagram
 
 
 <h3 align="left">Languages and Tools:</h3>
